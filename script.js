@@ -9,30 +9,30 @@ const questions = [
         ]
     },
     {
-        question:"Which is the largest in the world?",
+     question:"Which organ purifies our blood?",
         answers:[
-            {text:"Shark",correct: false},
-            {text:"Blue Whale",correct: true},
-            {text:"Elephant",correct: false},
-            {text:"Giraffe",correct: false},
+            {text:"Kidney",correct: true},
+            {text:"Lungs",correct: false},
+            {text:"Brain",correct: false},
+            {text:"Stomach",correct: false},
+        ]  
+    },
+    {
+        question:"Which of the following used in pencils?",
+        answers:[
+            {text:"Silicon",correct: false},
+            {text:"Charcoal",correct: false},
+            {text:"Graphite",correct: true},
+            {text:"Phosphorous",correct: false},
         ]
     },
     {
-        question:"Which is the largest in the world?",
+        question:"The gas usually filled in the electric bulb is",
         answers:[
-            {text:"Shark",correct: false},
-            {text:"Blue Whale",correct: true},
-            {text:"Elephant",correct: false},
-            {text:"Giraffe",correct: false},
-        ]
-    },
-    {
-        question:"Which is the largest in the world?",
-        answers:[
-            {text:"Shark",correct: false},
-            {text:"Blue Whale",correct: true},
-            {text:"Elephant",correct: false},
-            {text:"Giraffe",correct: false},
+            {text:"Hydrogen",correct: false},
+            {text:"Carbon Dioxide",correct: false},
+            {text:"Oxygen",correct: false},
+            {text:"Nitrogen",correct: true},
         ]
     }
 ];
